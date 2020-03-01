@@ -54,12 +54,16 @@ section div p {
   }
   button {
     border: none;
-    padding: 10px 30px;
-    background-color:#000;
-    color:#fff;
+    padding: 15px 22px;
+    background-color:rgb(112, 13, 13);
+    color:rgb(218, 214, 19);
     border-radius: 3px;
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 17px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
-  
+  button:hover { 
+        color: aqua;
+        border: black;
+
+  }
